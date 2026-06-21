@@ -1,0 +1,10 @@
+
+
+.navbar-wrapper{
+    background-color:var(--primary) ;
+    padding: 20px;
+}
+.navbar-wrapper h4{
+    color:  var(--bg);
+    font-size: 30px;
+}
