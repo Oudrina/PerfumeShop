@@ -1,5 +1,5 @@
 .product-card-wrapper{
-    width: 230px;
+    width: 270px;
     display: flex;
     gap: 20px;
     border: 1px solid var(--border);
